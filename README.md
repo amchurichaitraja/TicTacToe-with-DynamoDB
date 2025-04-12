@@ -141,3 +141,8 @@ python application.py --config config.ini --mode service --endpoint dynamodb.ap-
 ```
 
 Then Open browser and enter **http://instance-public-ip:5000/** and enter to access the application.
+## Credit
+This project was inspired by, and builds upon, the concepts presented in this lecture by Avinash Reddy.**https://youtu.be/ePpnQhuQ6U0?si=q8mXBhXdAgtbUVwN**
+I am very grateful for the ideas and structure that Avinash Reddy provided. Through his guidance, I have successfully completed AWS courses.
+
+
